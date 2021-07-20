@@ -12,7 +12,7 @@ const IndexPage = ({ data }) => {
             </Helmet>
             <Header></Header>
 
-            <div className="px-32 py-10">
+            <div className="px-4 md:px-28 lg:px-32 py-10">
                 <h2 className="text-lg font-semibold font-mono uppercase text-yellow-900">
                     Latest Posts
                 </h2>
